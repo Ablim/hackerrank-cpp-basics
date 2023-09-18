@@ -13,3 +13,9 @@ Install the following:
 - IntelliSense
   - Set path to compiler e.g `/usr/bin/gcc`
   - Set path to header files e.g. `/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include`
+
+## Compile and run
+
+`g++ file.cpp -o myapp`
+
+`./myapp`
